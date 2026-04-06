@@ -2,7 +2,7 @@
 
 # Philip Zangara
 
-**Cybersecurity Advisor · SOC Analyst**
+**Cybersecurity Advisor · SOC Analyst · Detection Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-philip--zangara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/philip-zangara)
 [![Website](https://img.shields.io/badge/Website-philipzangara.com-0d1117?style=flat-square&logo=google-chrome&logoColor=white)](https://philipzangara.com)
