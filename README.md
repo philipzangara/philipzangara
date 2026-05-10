@@ -67,6 +67,7 @@ Currently seeking roles in **cyber defense**, **MDR**, **vulnerability managemen
 | [🛡️ Splunk OTX CTI Dashboard](https://github.com/philipzangara/splunk-otx-cti-dashboard) | Splunk Classic Dashboard correlating AlienVault OTX threat intelligence against live Sysmon telemetry. Built for the ECA Cyber Range Splunk Security Dashboard Challenge |
 | [📡 Suricata NIDS on Raspberry Pi + Splunk](https://philipzangara.com/?p=76) | Deployed Suricata as a home NIDS on a Raspberry Pi 4, visualized alerts via Splunk dashboard |
 | [🔊 Suricata ET Noise Analysis](https://philipzangara.com/?p=103) | Analyzed Emerging Threats ruleset noise on a live home network |
+| [🎣 Phishing Analyser](https://github.com/philipzangara/phishing-analyzer) | Simple Email Phishing Analyzer writtin in Python
 | [✈️ Flight Sim Button Box](https://github.com/philipzangara/flightsim-control-box) | Custom hardware controller for flight simulators built with Python |
 
 ---
