@@ -27,7 +27,7 @@ Currently seeking roles in **cyber defense**, **MDR**, **vulnerability managemen
 | Certification | Issuer |
 |---|---|
 | SecurityX · PenTest+ · CySA+ · Security+ | CompTIA |
-| Splunk Core Certified Power User & User | Splunk |
+| Splunk Core Certified Power User & Core Certified User | Splunk |
 | AWS Cloud Practitioner (CCP) | Amazon |
 | Azure Fundamentals (AZ-900) | Microsoft |
 | Blue Team Level 1 (BTL1) | Security Blue Team |
