@@ -14,7 +14,7 @@
 
 ### About Me
 
-Cybersecurity professional with hands-on experience in **network defense**, **vulnerability assessments**, and **security workflow automation**. My background spans blue-team operations, digital forensics, and threat-actor research — backed by strong Windows and Linux administration skills.
+Cybersecurity professional with hands-on experience in **network defense**, **vulnerability assessments**, and **security workflow automation**. My background spans blue-team operations, digital forensics, and threat-actor research with strong Windows and Linux administration skills.
 
 I thrive in high-pressure environments and specialize in translating complex technical findings into clear, actionable guidance for both technical teams and stakeholders.
 
@@ -31,7 +31,6 @@ Currently seeking roles in **cyber defense**, **MDR**, **vulnerability managemen
 | AWS Cloud Practitioner (CCP) | Amazon |
 | Azure Fundamentals (AZ-900) | Microsoft |
 | Blue Team Level 1 (BTL1) | Security Blue Team |
-| Certified in Cybersecurity (CC) | (ISC)² |
 
 **M.S. Cybersecurity & Information Assurance · B.A.S. Cybersecurity**
 
