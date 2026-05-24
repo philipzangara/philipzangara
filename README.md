@@ -2,7 +2,7 @@
 
 # Philip Zangara
 
-**Cybersecurity Advisor · SOC Analyst · Detection Engineering**
+**SOC Analyst · Threat Analyst · Detection Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-philip--zangara-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/philip-zangara)
 [![Website](https://img.shields.io/badge/Website-philipzangara.com-0d1117?style=flat-square&logo=google-chrome&logoColor=white)](https://philipzangara.com)
@@ -14,7 +14,7 @@
 
 ### About Me
 
-Cybersecurity professional with hands-on experience in **network defense**, **vulnerability assessments**, and **security workflow automation**. My background spans blue-team operations, digital forensics, and threat-actor research with strong Windows and Linux administration skills.
+Cybersecurity professional with hands-on experience in network defense, vulnerability assessments, and security workflow automation. My background spans blue-team operations, digital forensics, and threat-actor research with strong Windows and Linux administration skills.
 
 I thrive in high-pressure environments and specialize in translating complex technical findings into clear, actionable guidance for both technical teams and stakeholders.
 
@@ -26,7 +26,7 @@ Currently seeking roles in **cyber defense**, **MDR**, **vulnerability managemen
 
 | Certification | Issuer |
 |---|---|
-| SecurityX · PenTest+ · CySA+ · Security+ | CompTIA |
+| SecurityX · PenTest+ · CySA+ · Security+ · A+ | CompTIA |
 | Splunk Core Certified Power User & Core Certified User | Splunk |
 | AWS Cloud Practitioner (CCP) | Amazon |
 | Azure Fundamentals (AZ-900) | Microsoft |
@@ -63,7 +63,7 @@ Currently seeking roles in **cyber defense**, **MDR**, **vulnerability managemen
 
 | Project | Description |
 |---|---|
-| [🎣 Phishing Analyser](https://github.com/philipzangara/phishing-analyzer) | Simple Email Phishing Analyzer written in Python |
+| [🎣 Simple Phishing Analyser](https://github.com/philipzangara/phishing-analyzer) | Simple Phishing Analyzer written in Python |
 | [🛡️ Splunk OTX CTI Dashboard](https://github.com/philipzangara/splunk-otx-cti-dashboard) | Splunk Classic Dashboard correlating AlienVault OTX threat intelligence against live Sysmon telemetry. Built for the ECA Cyber Range Splunk Security Dashboard Challenge |
 | [🔒 Linux Security Monitoring Dashboard](https://github.com/philipzangara/linux-stig-siem-monitoring) | Ubuntu 24.04 hardened with DoD STIG V1R1 using OpenSCAP. MITRE ATT&CK mapped detections in Splunk with drift simulation and automated daily compliance scanning |
 | [📡 Suricata NIDS on Raspberry Pi + Splunk](https://philipzangara.com/?p=76) | Deployed Suricata as a home NIDS on a Raspberry Pi 4, visualized alerts via Splunk dashboard |
