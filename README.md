@@ -63,13 +63,12 @@ Currently seeking roles in **cyber defense**, **MDR**, **vulnerability managemen
 
 | Project | Description |
 |---|---|
-| [🎣 Simple Phishing Analyser](https://github.com/philipzangara/phishing-analyzer) | Simple Phishing Analyzer written in Python |
-| [🛡️ Splunk OTX CTI Dashboard](https://github.com/philipzangara/splunk-otx-cti-dashboard) | Splunk Classic Dashboard correlating AlienVault OTX threat intelligence against live Sysmon telemetry. Built for the ECA Cyber Range Splunk Security Dashboard Challenge |
+| [🎣 Simple Phishing Analyzer](https://github.com/philipzangara/phishing-analyzer) | Python-based phishing email analyzer performing automated triage of .eml files |
+| [🔍 Simple IOC Lookup](https://github.com/philipzangara/ioc-enrichment-tool) | Python-based IOC enrichment tool for automated triage of IPs, domains, URLs, and file hashes |
+| [🛡️ Splunk OTX CTI Dashboard](https://github.com/philipzangara/splunk-otx-cti-dashboard) | Splunk Classic Dashboard correlating AlienVault OTX threat intelligence against live Sysmon telemetry |
 | [🔒 Linux Security Monitoring Dashboard](https://github.com/philipzangara/linux-stig-siem-monitoring) | Ubuntu 24.04 hardened with DoD STIG V1R1 using OpenSCAP. MITRE ATT&CK mapped detections in Splunk with drift simulation and automated daily compliance scanning |
 | [📡 Suricata NIDS on Raspberry Pi + Splunk](https://philipzangara.com/?p=76) | Deployed Suricata as a home NIDS on a Raspberry Pi 4, visualized alerts via Splunk dashboard |
 | [🔊 Suricata ET Noise Analysis](https://philipzangara.com/?p=103) | Analyzed Emerging Threats ruleset noise on a live home network |
-| [✈️ Flight Sim Button Box](https://github.com/philipzangara/flightsim-control-box) | Custom hardware controller for flight simulators built with Python |
-
 ---
 
 Building security tools that answer real questions. Open to roles in threat detection, MDR, and SOC operations.
