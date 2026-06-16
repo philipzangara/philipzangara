@@ -65,6 +65,7 @@ Currently seeking roles in **cyber defense**, **MDR**, **vulnerability managemen
 |---|---|
 | [🎣 Simple Phishing Analyzer](https://github.com/philipzangara/simple-phishing-analyzer) | Python-based phishing email analyzer performing automated triage of .eml files |
 | [🔍 Simple IOC Lookup](https://github.com/philipzangara/simple-ioc-lookup) | Python-based IOC enrichment tool for automated triage of IPs, domains, URLs, and file hashes |
+| [🪵 Simple Log Parser](https://github.com/philipzangara/simple-log-parser) | Python-based log parser that automatically detects and extracts IOCs from Windows Event XML, Apache, and auth.log files |
 | [📋 Sigma Detection Rules](https://github.com/philipzangara/sigma-detection-rules) | Sigma detection rules for common adversary TTPs mapped to MITRE ATT&CK with Splunk SPL conversions |
 | [🛡️ Splunk OTX CTI Dashboard](https://github.com/philipzangara/splunk-otx-cti-dashboard) | Splunk Classic Dashboard correlating AlienVault OTX threat intelligence against live Sysmon telemetry |
 | [🔒 Linux Security Monitoring Dashboard](https://github.com/philipzangara/linux-stig-siem-monitoring) | Ubuntu 24.04 hardened with DoD STIG V1R1 using OpenSCAP. MITRE ATT&CK mapped detections in Splunk with drift simulation and automated daily compliance scanning |
