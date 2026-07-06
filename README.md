@@ -14,11 +14,11 @@
 
 ### About Me
 
-Cybersecurity professional with hands-on experience in network defense, vulnerability assessments, and security workflow automation. My background spans blue-team operations, digital forensics, and threat-actor research with strong Windows and Linux administration skills.
+Cybersecurity professional specializing in threat detection, SIEM engineering, and security workflow automation. My work spans blue-team operations, detection rule development, and threat intelligence with hands-on experience across Splunk, Sigma, Suricata, and MITRE ATT&CK.
 
-I thrive in high-pressure environments and specialize in translating complex technical findings into clear, actionable guidance for both technical teams and stakeholders.
+I build detections, not just monitor for them. Projects include Sigma rules converted to Splunk SPL, a CTI dashboard correlating AlienVault OTX against live Sysmon telemetry, and Python tools for phishing triage and IOC enrichment.
 
-Currently seeking roles in **cyber defense**, **MDR**, **vulnerability management**, and **enterprise security operations**.
+Currently seeking roles in detection engineering, SOC analysis, and MDR operations.
 
 ---
 
