@@ -63,6 +63,8 @@ Currently seeking roles in detection engineering, SOC analysis, and MDR operatio
 
 | Project | Description |
 |---|---|
+| [⚠️ Vulnerability Management Program Implementation](https://github.com/philipzangara/vulnerability-management-program) | Implementing a mock vulnerability management program |
+| [⚠️ Programmatic Vulnerability Remediations](https://github.com/philipzangara/cyber-range) | Powershell, BASH, & Shell Commands to remediate vulnerabilities |
 | [🎣 Simple Phishing Analyzer](https://github.com/philipzangara/simple-phishing-analyzer) | Python-based phishing email analyzer performing automated triage of .eml files |
 | [🔍 Simple IOC Lookup](https://github.com/philipzangara/simple-ioc-lookup) | Python-based IOC enrichment tool for automated triage of IPs, domains, URLs, and file hashes |
 | [🪵 Simple Log Parser](https://github.com/philipzangara/simple-log-parser) | Python-based log parser that automatically detects and extracts IOCs from Windows Event XML, Apache, and auth.log files |
