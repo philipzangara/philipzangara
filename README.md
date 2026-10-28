@@ -66,7 +66,7 @@ Currently seeking roles in detection engineering, SOC analysis, and MDR operatio
 | [🚩 Vulnerability Management Program Implementation](https://github.com/philipzangara/vulnerability-management-program) | Implementing a mock vulnerability management program |
 | [💻 Programmatic Vulnerability Remediations](https://github.com/philipzangara/cyber-range) | Powershell, BASH, & Shell Commands to remediate vulnerabilities |
 | [🎯 Threat Hunt Reports](https://github.com/philipzangara/threathunt) | From Cyber Range |
-| [🎣 Simple Phishing Analyzer](https://github.com/philipzangara/simple-phishing-analyzer) | Python-based phishing email analyzer performing automated triage of .eml files |
+| [🎣 Simple Phishing Analyzer](https://github.com/philipzangara/simple-phishing-analyzer) | Python phishing analysis tool for automated .eml triage, header analysis, observable extraction, risk scoring, MITRE ATT&CK mapping, and optional threat intelligence enrichment. |
 | [🔍 Simple IOC Lookup](https://github.com/philipzangara/simple-ioc-lookup) | Python-based IOC enrichment tool for automated triage of IPs, domains, URLs, and file hashes |
 | [🪵 Simple Log Parser](https://github.com/philipzangara/simple-log-parser) | Python-based log parser that automatically detects and extracts IOCs from Windows Event XML, Apache, and auth.log files |
 | [🔎 Simple PCAP Extractor](https://github.com/philipzangara/simple-pcap-extractor) | Python-based PCAP parser for extracting network metadata and HTTP file artifacts from capture files |
